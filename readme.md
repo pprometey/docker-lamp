@@ -1,6 +1,6 @@
-# Docker with PHP 8.3, Apache, MySql, PhpMyAdmin (LAMP)
+# Docker with PHP 8.3, Apache, MySql, PhpMyAdmin
 
-This repository aims to facilitate the creation of a development environment with php 8.3
+This repository aims to facilitate the creation of a development environment with php 8.3 (LAMP-stack)
 
 ## What's in the environment
 
