@@ -16,8 +16,8 @@ This repository aims to facilitate the creation of a development environment wit
 ## How to use
 
 - Clone the repository
-- Enter the repository folder
 - Copy the files of the launched application to the `app` folder
+- Enter the repository folder
 - Run the `docker-compose up -d` command
 - Access the address `http://localhost:8080` to access phpmyadmin
   - user access
